@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://yellow-sky-08b2bf400.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** -https://www.youtube.com/watch?v=8ooYDuvz7us 
 
 ## Azure technologies used for Project
 
@@ -23,29 +23,20 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-
-
-
-
-   
+![screenshort1](https://user-images.githubusercontent.com/117804384/204077920-e0856ca9-b0f7-47ca-8910-7f8d168dc435.png)
+![sceenshot2](https://user-images.githubusercontent.com/117804384/204077926-cf8a56d3-858c-4e38-9413-d80b486535a9.png)
+![sceenshot3](https://user-images.githubusercontent.com/117804384/204077974-cdd98d85-2462-49c2-a881-f2ed053fd528.png)   
 
 ### About Us -
-
-
+![sceenshot2](https://user-images.githubusercontent.com/117804384/204078125-f1808ad6-5134-4306-a262-59d8cb059657.png)
 
 ### Services -
-
-
+ Classic Hair Cut, Beard Waxing, Hair Coloring, Straightening, Beard Trim, Clean Shave
 
 ### Contact us -
-
-
-
+ +12 345 567 7890
+ 
 ### health bot
-
-
-
-
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
